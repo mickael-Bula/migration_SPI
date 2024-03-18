@@ -1,0 +1,4 @@
+/.env.migration
+
+/.idea
+production/migrate_spi.phar
